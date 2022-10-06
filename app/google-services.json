@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198372621598",
+    "project_id": "pruebafirebase1-7c036",
+    "storage_bucket": "pruebafirebase1-7c036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198372621598:android:57789ef07b696489239d0f",
+        "android_client_info": {
+          "package_name": "car.copernic.pcanton.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198372621598-jiopl27c234ccj20rdjt12incekmfku5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnTZZWjJnEHlhVEfeU4SU-lHYGhLtZQT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198372621598-jiopl27c234ccj20rdjt12incekmfku5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
